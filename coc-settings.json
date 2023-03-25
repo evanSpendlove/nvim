@@ -1,0 +1,5 @@
+{
+    "documentHighlight.timeout": 10000,
+    "suggest.timeout": 10000,
+    "python.analysis.autoImportCompletions": true
+}

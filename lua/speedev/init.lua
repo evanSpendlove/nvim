@@ -1,0 +1,8 @@
+require("speedev.remap")
+require("speedev.set")
+require("speedev.plugins")
+require("speedev.oscyank")
+require("speedev.luasnip")
+require("speedev.snippets")
+require("speedev.impatient")
+require("speedev.harpoon")
